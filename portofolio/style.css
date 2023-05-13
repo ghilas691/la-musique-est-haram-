@@ -1,0 +1,24 @@
+h1
+{
+	color: black;
+}
+h2
+{
+	color: blueviolet;
+}
+h5
+{	color: blueviolet;
+
+}
+body
+{
+	background-color: yellowgreen;
+}
+#carte
+{
+	width: 800px;
+	margin: 0 auto;
+	background-color: blanchedalmond;
+	text-align: center;
+	align-content: center;
+}
